@@ -2,4 +2,3 @@ yellow
 red
 orage
 crimson
-brown
